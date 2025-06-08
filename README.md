@@ -32,6 +32,3 @@ Recommendation Systems • Fraud Detection • Anomaly Detection • Time Series
 
 ### 💬 Ask me about: 
 Data Science, Machine Learning, AI, Python, and more
-
-### 🔗 How to reach me: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r-pradeep-kumar/)
