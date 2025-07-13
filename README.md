@@ -1,10 +1,12 @@
-### Hello 👋 I'm **Pradeep**, a Data Science & AI professional with over 10 years of experience in designing and implementing AI/ML solutions to solve a variety of business problems across industries. Here's a bit more about me...
+### My name is **Pradeep** 👋 I am a Data Science & AI/ML professional with over 10 years of experience in designing and implementing AI/ML solutions to solve a variety of business problems across industries. 
 
-### 🔭 Currently: 
- - Head of Data & AI, leading a team of 15+ people across AI/ML, Analytics & Data Engineering
- - Owning Data & AI strategy, solution design and delivery across multiple projects
+### 🔭 Here's a bit more about me...
+ - I am a Data Science & AI/ML professional with over 10 years of experience in designing and implementing AI/ML solutions to solve a variety of business problems across industries. 
+ - I am first and foremost a scientist at heart, always coming up with ideas and thinking about solutions to solve real world problems using data
  
 ### 🌱 Career: 
+ - Currently the Head of Data & AI, leading a team of 15+ people across AI/ML, Analytics & Data Engineering
+ - Own the Data & AI strategy, solution design and delivery across product lines
  - Previously held Data Science/ML roles at Fidelity, Citigroup, and HSBC at multiple levels
  - Developed and implemented solutions that directly impacted revenue, reduced costs, enhanced user experiences, and supported executive decision-making
 
@@ -25,7 +27,7 @@
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat&logo=looker&logoColor=white)
 
 #### 🧠 Areas of work
-Recommendation Systems • Fraud Detection • Anomaly Detection • Time Series Forecasting • Reinforcement Learning • Propensity Modelling • Customer Segmentation • Personalisation Engines • AB Testing + Hypothesis Testing
+Recommendation Systems • Fraud Detection • Anomaly Detection • Time Series Forecasting • Reinforcement Learning • Propensity Modelling • Customer Segmentation • Personalisation Engines • AB Testing + Hypothesis Testing • Applied GenAI
 
 ### 📈 GitHub Stats
 ![Pradeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradeep-kumar-r&show_icons=true&theme=default)
